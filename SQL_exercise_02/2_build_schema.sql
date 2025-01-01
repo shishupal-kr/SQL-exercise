@@ -2,6 +2,8 @@
 -----------------------------------------
 -- Build the Schema
 -----------------------------------------
+create database company;
+use company;
 
 CREATE TABLE Departments (
   Code INTEGER PRIMARY KEY,

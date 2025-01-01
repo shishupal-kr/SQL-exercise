@@ -1,5 +1,7 @@
 -- The Warehouse
 -- lINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_warehouse
+create database shipping
+use shipping;
 
 CREATE TABLE Warehouses (
    Code INTEGER NOT NULL,
