@@ -33,6 +33,13 @@ on
 where piece = 1;
 
 -- 5.5 Select the name of pieces provided by provider with code "HAL".
+    select a.name
+    from pieces a
+    join provides b
+    on
+        a.code =b.piece
+    where b.provider ='HAL'
+
 -- 5.6
 -- ---------------------------------------------
 -- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
