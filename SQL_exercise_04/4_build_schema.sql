@@ -1,4 +1,6 @@
 -- https://en.wikibooks.org/wiki/SQL_Exercises/Movie_theatres
+create database PVR;
+use PVR;
 
 CREATE TABLE Movies (
   Code INTEGER PRIMARY KEY,
