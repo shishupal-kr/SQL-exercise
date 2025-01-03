@@ -1,4 +1,6 @@
 -- https://en.wikibooks.org/wiki/SQL_Exercises/Pieces_and_providers
+create database hardware;
+use hardware;
 
 CREATE TABLE Pieces (
  Code INTEGER PRIMARY KEY NOT NULL,

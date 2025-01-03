@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/SQL_exercise_01/1_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_01/1_questions.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_02/2_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_02/ex_2_solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_03/3_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_03/ex_3_solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_04/4_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_04/ex_4_solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_05/5_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_05/ex_5_solution.sql" dialect="MySQL" />
+  </component>
+</project>
