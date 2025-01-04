@@ -13,5 +13,7 @@
     <file url="file://$PROJECT_DIR$/SQL_exercise_05/ex_5_solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL_exercise_06/6_build_schema.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL_exercise_06/ex_6_solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_10/10_build_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL_exercise_10/ex_10_solution.sql" dialect="MySQL" />
   </component>
 </project>

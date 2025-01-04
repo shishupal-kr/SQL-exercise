@@ -1,6 +1,9 @@
 -- Used SQLite3 for this example
 
 -- table PEOPLE: containing unique ID and corresponding names.
+create database human;
+use human;
+
 CREATE TABLE PEOPLE (id INTEGER, name CHAR);
 
 INSERT INTO PEOPLE VALUES(1, "A");
@@ -9,7 +12,7 @@ INSERT INTO PEOPLE VALUES(3, "C");
 INSERT INTO PEOPLE VALUES(4, "D");
 
 -- ADDRESS: containing the history of address information of each ID.
-CREATE TABLE ADDRESS (id INTEGER, address CHAR, updatedate date);
+CREATE TABLE ADDRESS (id INTEGER, address text, updatedate date);
 
 INSERT INTO ADDRESS VALUES(1, "address-1-1", "2016-01-01");
 INSERT INTO ADDRESS VALUES(1, "address-1-2", "2016-09-02");
