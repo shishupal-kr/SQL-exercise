@@ -1,0 +1,31 @@
+<gadget>
+
+    <Macbook>
+        <Model>Macbook Air M1</Model>
+        <Storage>256GB</Storage>
+        <Ram>8Gb</Ram>
+        <Price>50000</Price>
+    </Macbook>
+
+    <Macbook>
+        <Model>Macbook Air M2</Model>
+        <Storage>256Gb</Storage>
+        <Ram>8Gb</Ram>
+        <Price>70000</Price>
+    </Macbook>
+
+    <Macbook>
+        <Model>Macbook Air M3</Model>
+        <Storage>512Gb</Storage>
+        <Ram>16Gb</Ram>
+        <Price>99999</Price>
+    </Macbook>
+
+    <Macbook>
+        <Model>Macbook pro M4</Model>
+        <Storage>1Tb</Storage>
+        <Ram>32Gb</Ram>
+        <Price>150000</Price>
+    </Macbook>
+
+</gadget>
